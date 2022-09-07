@@ -6,4 +6,6 @@ class Node
     @next_node = next_node
     @prev_node = prev_node
   end
+
+  
 end
